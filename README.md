@@ -1,6 +1,6 @@
 # NUMPROD: Numerosity Production Task
 
-A numerosity production task based on Python and [Exypriment]. The module ```numprod``` contains the code of the numersorty production task as it has been used in the study of Stapel, Hunnius, Bekkering and Lindemann (2015). See ```numprod_demo``` for an example.
+A numerosity production task based on Python and [Exypriment]. The module ```numprod``` contains the code of the numersorty production task as it has been used in the study of Stapel, Hunnius, Bekkering and Lindemann (2015). See ```numprod_demo.py``` for an example.
 
 Copyright (c) 2010-2015 Oliver Lindemann. Released under the [MIT license].
 
