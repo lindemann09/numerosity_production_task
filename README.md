@@ -1,6 +1,6 @@
 # NUMPROD: Numerosity Production Task
 
-A numerosity production task based on Python and [Exypriment]. 
+A numerosity production task based on Python and [Expyriment]. 
 
 The version [v1.0][v10] of module ```numprod``` contains the code of the numersorty production task as it has been used in the study of Stapel, Hunnius, Bekkering and Lindemann (2015). See ```numprod_demo.py``` for an example.
 
@@ -12,7 +12,7 @@ Copyright (c) 2010-2015 Oliver Lindemann. Released under the [MIT license].
 * Krause, F., & Lindemann, O. (2014). Expyriment: A Python library for cognitive and neuroscientific experiments. *Behavior Research Methods*, 46(2), 416-428.  doi:[10.3758/s13428-013-0390-6][doi2]
 
 
-[Exypriment]: http:www.expyriment.org
+[Expyriment]: http:www.expyriment.org
 [doi1]: http://dx.doi.org/10.1080/20445911.2014.995668
 [doi2]: http://dx.doi.org/10.3758/s13428-013-0390-6
 [MIT license]: http://opensource.org/licenses/MIT
