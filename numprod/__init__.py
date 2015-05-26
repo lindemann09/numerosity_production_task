@@ -1,8 +1,11 @@
-"""Numerosity production
+"""Numerosity Production Task
 
-(c) 2010-2015 Oliver Lindemann
+See LICENCE file distributed with the package
 
 """
 
-from numprod import np_estimate, NumerosityProduction
+__author__ = 'Oliver Lindemann'
+__version__ = '0.1'
+
+from numprod import NumerosityProductionCloud, NumerosityProductionTask
 from animation import scroll_out
