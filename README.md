@@ -10,7 +10,7 @@ Copyright (c) 2010-2015 Oliver Lindemann. Released under the [MIT license].
 * Krause, F., & Lindemann, O. (2014). Expyriment: A Python library for cognitive and neuroscientific experiments. *Behavior Research Methods*, 46(2), 416-428.  doi:[10.3758/s13428-013-0390-6][doi2]
 
 
-[Exypriment]: http:www.expyriment.ord
+[Exypriment]: http:www.expyriment.org
 [doi1]: http://dx.doi.org/10.1080/20445911.2014.995668
 [doi2]: http://dx.doi.org/10.3758/s13428-013-0390-6
 [MIT license]: http://opensource.org/licenses/MIT
