@@ -6,6 +6,8 @@ The version [v1.1][v11] of module ```numprod``` contains the code of the numerso
 
 Copyright (c) 2010-2015 Oliver Lindemann. Released under the [MIT license].
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18080.svg)](http://dx.doi.org/10.5281/zenodo.18080)
+
 ***
 
 * Stapel, J. C., Hunnius, S., Bekkering, H., & Lindemann, O. (2015). The development of numerosity estimation: Evidence for a linear number representation early in life. *Journal of Cognitive Psychology, 27*, 400-412,  doi:[10.1080/20445911.2014.995668][doi1]
