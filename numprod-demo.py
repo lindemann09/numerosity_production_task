@@ -2,7 +2,7 @@
 """
 Example for the Numerosity Production Task
 
-depends on Expyriment 0.7
+depends on Expyriment 0.7 or larger
 """
 
 from expyriment import control, misc, stimuli
